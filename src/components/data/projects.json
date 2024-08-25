@@ -1,0 +1,22 @@
+[
+  {
+    "key": 1,
+    "title": "Cinco Admin Panel",
+    "description": "This project based on event management app. An cinco admin panel is a web-based interface that allows admins to manage and control a things for web application"
+  },
+  {
+    "key": 2,
+    "title": "Hype Cast Admin panel",
+    "description": "This is a project based on managing and controlling web application having interface for media service provider like podcast."
+  },
+  {
+    "key": 3,
+    "title": "Hype Social",
+    "description": "Hype social is a social media network platform concentrating on coach and athlete.The platform would allow athletes to showcase their talent and skills via feeds and profile information."
+  },
+    {
+    "key": 4,
+    "title": "Skool Assist",
+    "description": "This is a project is complete ERP (enterprise resource planning) Software Solution for Schools & Universites"
+  }
+]

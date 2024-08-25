@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Web developer",
+    "organisation": "Synkrama technologies pvt ltd.",
+    "startDate": "May, 2022",
+    "endDate": "June, 2023",
+    "location": "Pune",
+    "experiences": [
+      "I had pleasure experience of working on 1 admin panels as well as worked on social media network platform"
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Frontend Web developer",
+    "organisation": "SPCL infotech service pvt ltd.",
+    "startDate": "July, 2023",
+    "endDate": "Present",
+    "location": "Warje, Pune",
+    "experiences": [
+      "Having experience in frontend web development worked on an admin panel and Enterprise Resource Planning (ERP) is a software platform"
+    ]  }
+  
+]
